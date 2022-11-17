@@ -20,7 +20,7 @@
             <div>
                 <select name="operator">
                     <option selected disabled value="">Operador</option>
-                    <option value="+"></option>
+                    <option value="+">+</option>
                     <option value="-">-</option>
                     <option value="*">x</option>
                     <option value="/">/</option>
