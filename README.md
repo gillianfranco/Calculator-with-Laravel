@@ -1,2 +1,2 @@
-# Calculator-with-Laravel
+# Calculator with Laravel
  Calculator made with Laravel.
